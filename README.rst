@@ -10,6 +10,8 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
+
+
 Features
 --------
 
@@ -33,7 +35,6 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
 
 License
 -------
